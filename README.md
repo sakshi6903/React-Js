@@ -12,10 +12,3 @@
 //reconcilliation --> the algorithm react uses to diff one tree with another to determine which part need to be changed --->VIRTUAL DOM
 //update--> a change in the data  used to render a react app.usaully the result of 'setState' eventually results in a re-render.
 
-<<<<<<< HEAD
-
-
-
-
-=======
->>>>>>> 4baca0c61c301a52bd425c40dc22171d21073b93
