@@ -1,8 +1,12 @@
+import Basic from "./basic"
 
 function App() {
-  
+  const username= 'Sakshii'
   return (
-    <h1>Hello React .....</h1>
+    <>
+    <Basic/>
+    <h1>Hello {username} .....</h1>
+    </>
   )
 }
 

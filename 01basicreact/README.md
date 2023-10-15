@@ -9,3 +9,5 @@
 //ctr+c --->to stop the project 
 
 //cd .. ---> to go back to the previous folder 
+
+//function name should start with capital letter
